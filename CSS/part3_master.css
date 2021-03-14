@@ -1,0 +1,36 @@
+/*
+div {
+  color: blue;
+} */
+
+.FirstDiv {
+  color:red;
+}
+
+.SecondDiv{
+  color:blue;
+}
+
+#singledout {
+  color:green;
+  text-decoration: line-through;
+}
+
+
+/* * {  choose all the elements
+  color:black;
+} */
+
+
+h3 + ul {
+  border: 4px dotted purple;
+}
+
+li a {
+  color: red;
+}
+
+li a[href="https://www.google.de/?gfe_rd=cr&ei=P0RtVq2mNLHF8Afyp5zQAw&pli=1"] {
+  color: blue;
+  border: 5px solid orange;
+}
