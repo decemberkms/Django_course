@@ -1,0 +1,21 @@
+body {
+  /* background-color: grey; */
+  background: url(https://static.bhphotovideo.com/explora/sites/default/files/ts-space-sun-and-solar-viewing-facts-versus-fiction.jpg);
+  background-repeat: no-repeat;
+}
+
+div {
+  background: green;
+  border-color: blue;
+  border-width: 5px;
+  border-style: double;
+}
+
+p {
+  color: blue;
+}
+
+span {
+  background: red;
+  color: black;
+}
